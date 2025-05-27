@@ -40,7 +40,7 @@ jobs:
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
-        git add Kimsuky_IoC2.txt
+        git add data/Kimsuky_IoC.txt
         git commit -m "자동 업데이트: Kimsuky IOC 데이터 갱신" || exit 0
         git push
       env:
