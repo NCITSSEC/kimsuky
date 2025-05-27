@@ -49,7 +49,7 @@ for entry in result["data"]:
 if not parsed_lines:
     exit()
 
-output_path = "Kimsuky_IoC2.txt"
+output_path = "data/Kimsuky_IoC.txt"
 os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
 # JSON 저장
