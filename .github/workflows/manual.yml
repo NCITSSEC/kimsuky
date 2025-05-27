@@ -3,7 +3,7 @@ name: kimsuky IoC
 on:
   push:
     paths:
-      - '.github/workflows/main.yml'  # 워크플로 파일이 수정되면 실행
+      - '.github/workflows/manual.yml'  # 워크플로 파일이 수정되면 실행
   schedule:
     - cron: '0 */6 * * *'  # 6시간마다 실행
   workflow_dispatch:  # 수동 실행 가능
