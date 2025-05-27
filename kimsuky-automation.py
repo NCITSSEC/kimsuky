@@ -55,6 +55,6 @@ os.makedirs(os.path.dirname(output_path), exist_ok=True)
 # JSON 저장
 with open(output_path, "w", encoding="utf-8") as f:
     for row in parsed_lines:
-        f.write(''.join(parsed_lines))
+        f.write(''.join(parsed_lines+'\n'))
 
 print(f"총 저장된 항목: {len(parsed_lines)}")
