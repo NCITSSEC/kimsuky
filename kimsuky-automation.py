@@ -20,7 +20,7 @@ result = response.json()
 # 오늘 날짜 선언
 today_kst = datetime.now().strftime("%Y-%m-%d")
 # 날짜 임의 지정
-today_kst = "2025-05-09"
+today_kst = "2025-05-08"
 parsed_lines = []
 
 for entry in result["data"]:
