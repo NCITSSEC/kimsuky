@@ -286,3 +286,5 @@ filename,sha256,tags,Report_link
 "ps1.ps1","338481326c844fc2c769599c1062a2f0c7570fbd5fff87cdfc518b8609f98140","92-119-114-128,apt,Kimsuky,ps1","https://bazaar.abuse.ch/sample/338481326c844fc2c769599c1062a2f0c7570fbd5fff87cdfc518b8609f98140/"
 "Documents.zip","d1bc393e54aa03339c89cc89bf46ffd716885720b5da4bc7d2b28f3c464426a1","92-119-114-128,apt,Kimsuky,zip","https://bazaar.abuse.ch/sample/d1bc393e54aa03339c89cc89bf46ffd716885720b5da4bc7d2b28f3c464426a1/"
 "Kimsuky TA427.ps1","dc15ab39b2171cb22e4afd55d92c2994707b9cebf4edf44b150dbbbbe209df2d","Kimsuky,ps1,TA427","https://bazaar.abuse.ch/sample/dc15ab39b2171cb22e4afd55d92c2994707b9cebf4edf44b150dbbbbe209df2d/"
+"Themes.js","596cd0d30fe035e8be1dd9d78c1f71a8fc0e2c653d1318af26c51758339ca6bd","apt,js,Kimsuky,medianewsonline-com","https://bazaar.abuse.ch/sample/596cd0d30fe035e8be1dd9d78c1f71a8fc0e2c653d1318af26c51758339ca6bd/"
+"Приглашение[Касат. 80-летия Августовской революции 1945 г. и Дня Независимости].lnk","028289fac74184ab05c8e57e61e60f97e1345f20a5d523b995b29eb7bfc23c92","apt,Kimsuky,lnk,medianewsonline-com","https://bazaar.abuse.ch/sample/028289fac74184ab05c8e57e61e60f97e1345f20a5d523b995b29eb7bfc23c92/"
