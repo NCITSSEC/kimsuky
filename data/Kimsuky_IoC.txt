@@ -303,3 +303,4 @@ filename,sha256,tags,Report_link
 "84e3036f4412bf9898c28c3d41cf9b134026d8177e2e8859ac48af784bfa745d.js","84e3036f4412bf9898c28c3d41cf9b134026d8177e2e8859ac48af784bfa745d","js,Kimsuky,nomera-n-e-kr","https://bazaar.abuse.ch/sample/84e3036f4412bf9898c28c3d41cf9b134026d8177e2e8859ac48af784bfa745d/"
 "wr0aDIb.aDby.dll","a83cf99ae1567a24ed2fd912b437dee7e3f2f2db9a125889f6ff36024d2827e5","exe,Kimsuky,nomera-n-e-kr,wr0aDIb","https://bazaar.abuse.ch/sample/a83cf99ae1567a24ed2fd912b437dee7e3f2f2db9a125889f6ff36024d2827e5/"
 "tripservice.dll","b61a3d49b9db1ccd2a0124e94755ddca600c32064aa6cfe5a8ff7da07c154f9a","exe,Kimsuky,nomera-n-e-kr,tripservice","https://bazaar.abuse.ch/sample/b61a3d49b9db1ccd2a0124e94755ddca600c32064aa6cfe5a8ff7da07c154f9a/"
+"v27aa4xc.dll","ed19665c3ebd40c9de096185b94ad5d69e02980bb0a0c6d0890f5175154be2f2","apt,exe,Kimsuky","https://bazaar.abuse.ch/sample/ed19665c3ebd40c9de096185b94ad5d69e02980bb0a0c6d0890f5175154be2f2/"
