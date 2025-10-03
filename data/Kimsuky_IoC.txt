@@ -305,3 +305,4 @@ filename,sha256,tags,Report_link
 "tripservice.dll","b61a3d49b9db1ccd2a0124e94755ddca600c32064aa6cfe5a8ff7da07c154f9a","exe,Kimsuky,nomera-n-e-kr,tripservice","https://bazaar.abuse.ch/sample/b61a3d49b9db1ccd2a0124e94755ddca600c32064aa6cfe5a8ff7da07c154f9a/"
 "v27aa4xc.dll","ed19665c3ebd40c9de096185b94ad5d69e02980bb0a0c6d0890f5175154be2f2","apt,exe,Kimsuky","https://bazaar.abuse.ch/sample/ed19665c3ebd40c9de096185b94ad5d69e02980bb0a0c6d0890f5175154be2f2/"
 "SecurityUpdate.dll","86ddc7545c0983deec0c3954a1ea475ac721e7f47086a9db234fa963afe39472","apt,exe,Kimsuky","https://bazaar.abuse.ch/sample/86ddc7545c0983deec0c3954a1ea475ac721e7f47086a9db234fa963afe39472/"
+"osinfo.dll","95f94f5fce45a96e5eecc8f778deea373a47cadaa3da5c2342c6c6855dcae485","apt,exe,Kimsuky","https://bazaar.abuse.ch/sample/95f94f5fce45a96e5eecc8f778deea373a47cadaa3da5c2342c6c6855dcae485/"
