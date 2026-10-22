@@ -65,7 +65,7 @@ jobs:
         username: ${{ secrets.MAIL_USERNAME }}
         password: ${{ secrets.MAIL_PASSWORD }}
         subject: "[GitHub Actions] Kimsuky IoC 수집 결과 보고"
-        to: your_email@example.com   # ◀ 결과를 받을 내 메일 주소
+        to: lwh3632@ncits.co.kr,jane00@ncits.co.kr   # ◀ 결과를 받을 내 메일 주소
         from: "Kimsuky IoC Bot <${{ secrets.MAIL_USERNAME }}>"
         body: |
           Kimsuky IoC 수집 작업이 완료되었습니다.
