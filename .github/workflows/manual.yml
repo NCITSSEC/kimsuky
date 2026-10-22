@@ -52,3 +52,24 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: 실행 결과 이메일 발송
+      # 신규 IoC가 있을 때만 메일을 보내고 싶다면 아래 조건 추가:
+      # if: steps.kimsuky-step.outputs.count > 0
+      if: always()  # 성공/실패 여부와 상관없이 항상 메일 수신을 원할 때
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: smtp.gmail.com
+        server_port: 465
+        secure: true
+        username: ${{ secrets.MAIL_USERNAME }}
+        password: ${{ secrets.MAIL_PASSWORD }}
+        subject: "[GitHub Actions] Kimsuky IoC 수집 결과 보고"
+        to: your_email@example.com   # ◀ 결과를 받을 내 메일 주소
+        from: "Kimsuky IoC Bot <${{ secrets.MAIL_USERNAME }}>"
+        body: |
+          Kimsuky IoC 수집 작업이 완료되었습니다.
+          
+          - 결과 요약: ${{ steps.kimsuky_step.outputs.summary }}
+          - 추가된 건수: ${{ steps.kimsuky_step.outputs.count }}건
+          - 작업 상세 링크: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
