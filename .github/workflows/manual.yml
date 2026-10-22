@@ -65,7 +65,7 @@ jobs:
         username: ${{ secrets.MAIL_USERNAME }}
         password: ${{ secrets.MAIL_PASSWORD }}
         subject: "[GitHub Actions] Kimsuky IoC 수집 결과 보고"
-        to: lwh3632@ncits.co.kr
+        to: ${{ secrets.TO_MAIL }}
         from: "Kimsuky IoC Bot <${{ secrets.MAIL_USERNAME }}>"
         # ◀ HTML 파일 직접 첨부 방식으로 변경
         html_body: file://email.html
