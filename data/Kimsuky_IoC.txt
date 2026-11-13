@@ -387,3 +387,8 @@ filename,sha256,tags,Report_link
 "5vyvx4z1.mhq.ps1","e54f95f0bc433c97026d8dcbabbf25181ac9199581f6f6365594243e2b182690","Kimsuky,ps1","https://bazaar.abuse.ch/sample/e54f95f0bc433c97026d8dcbabbf25181ac9199581f6f6365594243e2b182690/"
 "Review.chm","0efbd18c77479b458078521c18bdad84852b71250122a17cb8105c10d3df38d4","apt,chm,DPRK,Kimsuky","https://bazaar.abuse.ch/sample/0efbd18c77479b458078521c18bdad84852b71250122a17cb8105c10d3df38d4/"
 "작물보호제 공급 검토 품목 제안서.lnk","625f912f4bdb5df0f2584f6b162c8602e5bb756b4853b94a12b9b9dadc25b915","apt,Kimsuky,lnk","https://bazaar.abuse.ch/sample/625f912f4bdb5df0f2584f6b162c8602e5bb756b4853b94a12b9b9dadc25b915/"
+"KNVidne09VNJdigrg10bsvdisdbg-main.zip","5cd0924e9c3041f3725684e75965e53810ceac5bb740fb4db3c312bca95dbdca","github-urusa4400,Kimsuky,zip","https://bazaar.abuse.ch/sample/5cd0924e9c3041f3725684e75965e53810ceac5bb740fb4db3c312bca95dbdca/"
+"NCIScbieWUBFwFile-main.zip","74be2a828f7a22957745b458299252c18edeeaa76bf1d35cf54a00912256d357","github-urusa4400,Kimsuky,zip","https://bazaar.abuse.ch/sample/74be2a828f7a22957745b458299252c18edeeaa76bf1d35cf54a00912256d357/"
+"ATTACH_83920174.lnk","18e8b4e09db3559593703bba7941b5c7e0eaa67dd0c26fdf4e7823fb29d14e55","Kimsuky,lnk","https://bazaar.abuse.ch/sample/18e8b4e09db3559593703bba7941b5c7e0eaa67dd0c26fdf4e7823fb29d14e55/"
+"INS_20260910_No84729103.lnk","7978e6f49f87148fe9627b7978675989df978f86ae352d07dd8e4bef6d00cf5a","Kimsuky,lnk","https://bazaar.abuse.ch/sample/7978e6f49f87148fe9627b7978675989df978f86ae352d07dd8e4bef6d00cf5a/"
+"건강검진.lnk","399cc61557f427e3e2712b5a2207dd4aadba90914f56563edc6dec61248cb15b","DPRK,Kimsuky,lnk","https://bazaar.abuse.ch/sample/399cc61557f427e3e2712b5a2207dd4aadba90914f56563edc6dec61248cb15b/"
