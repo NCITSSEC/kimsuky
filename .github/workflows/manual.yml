@@ -22,7 +22,7 @@ jobs:
     - name: Python 환경 설정
       uses: actions/setup-python@v5
       with:
-        python-version: '3.9'
+        python-version: '3.12'
 
     - name: 의존성 패키지 설치
       run: |
